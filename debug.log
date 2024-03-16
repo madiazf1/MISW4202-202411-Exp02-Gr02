@@ -16,3 +16,607 @@ INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio3 HTTP/1.
 INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio1-1 HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio2 HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 22:53:46.931682  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:53:46.936326  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 22:53:46.939308  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:53:46.941718  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 22:53:46.944526  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 22:53:46.946667  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio2-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio1-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:53:46] "POST /microservicio1 HTTP/1.1" 200 -
+INFO:root:2024-03-15 22:54:11.528534  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:54:11.530581  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 22:54:11.533151  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:54:11.535983  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 22:54:11.538004  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 22:54:11.541293  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio2-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio1-1-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio2-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:11] "POST /microservicio1-T2 HTTP/1.1" 200 -
+INFO:root:2024-03-15 22:54:20.887484  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:54:20.890568  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 22:54:20.894015  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:54:20.898848  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 22:54:20.902519  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 22:54:20.906797  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio2-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio1-1-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio2-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:54:20] "POST /microservicio1-T2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 22:55:51.586390  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:55:51.590901  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 22:55:51.595470  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 22:55:51.598996  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 22:55:51.604636  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:55:51] "[31m[1mPOST /microservicio2-1 HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:55:51] "POST /microservicio3-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:55:51] "POST /microservicio1-1-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:55:51] "POST /microservicio2-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:55:51] "POST /microservicio1-T2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 23:01:03.140092  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:03.143362  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:03.147601  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:03.150256  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:01:03.153656  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:03.155600  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:01:03.155709  SUCCESS [Recibo permisos de usuario]: Token Válido [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio2-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio1-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:03] "POST /microservicio1 HTTP/1.1" 200 -
+INFO:root:2024-03-15 23:01:09.156607  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:09.158491  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:09.160182  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:09.161918  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:01:09.163579  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:09.163767  WARNING [Recibo json, decode jwt]: Token Inválido [Autorizador:5001]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "[31m[1mPOST /microservicio2-1 HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio3-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio1-1-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio2-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio1-T2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/suscripciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/autorizador.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug: * Detected change in '/home/elcidcampeador/Documents/MISO/Semestre_2/MISW4202/Semana8/MISW4202-202411-Exp02-Gr02/api_gateway.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 23:19:02.548446  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:19:02.551846  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:19:02.555515  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:19:02.557780  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:19:02.561636  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:19:02.563969  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:19:02.564110  WARNING [Recibo permisos de usuario]: Token Válido, usuario no autorizado [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio2-1-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio3-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio1-1-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio2-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:19:02] "POST /microservicio1-T3 HTTP/1.1" 200 -
+INFO:root:2024-03-15 23:20:02.731684  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:20:02.733805  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:20:02.736638  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:20:02.739682  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:20:02.741576  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:20:02.743637  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:20:02.743787  SUCCESS [Recibo permisos de usuario]: Token Válido [Suscripciones:5002]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio3-1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio2-1-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio3-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio1-1-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio2-T3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:20:02] "POST /microservicio1-T3 HTTP/1.1" 200 -

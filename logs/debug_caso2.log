@@ -1,0 +1,19 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 23:01:09.156607  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:09.158491  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:09.160182  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:01:09.161918  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:01:09.163579  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:01:09.163767  WARNING [Recibo json, decode jwt]: Token Inválido [Autorizador:5001]
+
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "[31m[1mPOST /microservicio2-1 HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio3-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio1-1-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio2-T2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 23:01:09] "POST /microservicio1-T2 HTTP/1.1" 200 -

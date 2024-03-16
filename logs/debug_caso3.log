@@ -1,0 +1,15 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 23:19:02.548446  1. Envío autorizador [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:19:02.551846  2. Genero token, envío api gateway [Autorizador:5001]
+
+INFO:root:2024-03-15 23:19:02.555515  3. Recibo token, envío suscripciones [API_Gateway:5000]
+
+INFO:root:2024-03-15 23:19:02.557780  4. Recibo json, envío autorizador [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:19:02.561636  5. Recibo json, decode jwt [Autorizador:5001]
+
+INFO:root:2024-03-15 23:19:02.563969  6. Recibo permisos de usuario [Suscripciones:5002]
+
+INFO:root:2024-03-15 23:19:02.564110  WARNING [Recibo permisos de usuario]: Token Válido, usuario no autorizado [Suscripciones:5002]

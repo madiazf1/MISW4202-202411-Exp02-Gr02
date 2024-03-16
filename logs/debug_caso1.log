@@ -1,18 +1,15 @@
-INFO:root:2024-03-15 22:36:03.039264  1. Envío autorizador [API_Gateway:5000]
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 140-648-073
+INFO:root:2024-03-15 23:01:03.140092  1. Envío autorizador [API_Gateway:5000]
 
-INFO:root:2024-03-15 22:36:03.044431  2. Genero token, envío api gateway [Autorizador:5001]
+INFO:root:2024-03-15 23:01:03.143362  2. Genero token, envío api gateway [Autorizador:5001]
 
-INFO:root:2024-03-15 22:36:03.048978  3. Recibo token, envío suscripciones [API_Gateway:5000]
+INFO:root:2024-03-15 23:01:03.147601  3. Recibo token, envío suscripciones [API_Gateway:5000]
 
-INFO:root:2024-03-15 22:36:03.053226  4. Recibo json, envío autorizador [Suscripciones:5002]
+INFO:root:2024-03-15 23:01:03.150256  4. Recibo json, envío autorizador [Suscripciones:5002]
 
-INFO:root:2024-03-15 22:36:03.059205  5. Recibo json, decode jwt [Autorizador:5001]
+INFO:root:2024-03-15 23:01:03.153656  5. Recibo json, decode jwt [Autorizador:5001]
 
-INFO:root:2024-03-15 22:36:03.061744  6. Recibo permisos de usuario [Suscripciones:5002]
+INFO:root:2024-03-15 23:01:03.155600  6. Recibo permisos de usuario [Suscripciones:5002]
 
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio3-1 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio2-1 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio3 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio1-1 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio2 HTTP/1.1" 200 -
-INFO:werkzeug:127.0.0.1 - - [15/Mar/2024 22:36:03] "POST /microservicio1 HTTP/1.1" 200 -
+INFO:root:2024-03-15 23:01:03.155709  SUCCESS [Recibo permisos de usuario]: Token Válido [Suscripciones:5002]
